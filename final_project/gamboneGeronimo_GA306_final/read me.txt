@@ -1,0 +1,1 @@
+Form my final, I tried to make an auto rigger script for a dragon wing. I didn’t finish it though. The first script is the code that you showed me for making an arm and the second script is for moving the joints into position.
